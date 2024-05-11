@@ -1,6 +1,6 @@
 {
   "name": "actual-sync",
-  "version": "24.5.1-mp",
+  "version": "24.5.2-mp",
   "license": "MIT",
   "description": "actual syncing server",
   "type": "module",
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@actual-app/crdt": "2.1.0",
-    "@mattpetters/actual-web": "24.5.1-mp",
+    "@mattpetters/actual-web": "24.5.2-mp",
     "bcrypt": "^5.1.0",
     "better-sqlite3": "^9.1.1",
     "body-parser": "^1.20.1",

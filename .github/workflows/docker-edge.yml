@@ -21,8 +21,8 @@ permissions:
 
 env:
   IMAGES: |
-    actualbudget/actual-server
-    ghcr.io/actualbudget/actual-server
+    mattpetters/actual-server
+    ghcr.io/mattpetters/actual-server
 
   # Creates the following tags:
   # - actual-server:edge

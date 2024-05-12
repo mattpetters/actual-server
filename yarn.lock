@@ -931,10 +931,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mattpetters/actual-web@npm:24.5.1-mp":
-  version: 24.5.1-mp
-  resolution: "@mattpetters/actual-web@npm:24.5.1-mp"
-  checksum: fc2f696ee7e242335bffc34611258a91b49bc4a7d54370a8a57f9a7f5be741bb6bf4f660fe954712efc51c53e9fea6419b7173935d658c719407a9c6d105bdf5
+"@mattpetters/actual-web@npm:24.5.2-mp":
+  version: 24.5.2-mp
+  resolution: "@mattpetters/actual-web@npm:24.5.2-mp"
+  checksum: e7369ea63dca3eaab9c793e4feeaf40949847f116856e1990394decced210a38c91e8e46105e2be698f0fb43f45b54f8b254fb7a1ce6de05b809ff9c3946504f
   languageName: node
   linkType: hard
 
@@ -1502,7 +1502,7 @@ __metadata:
   dependencies:
     "@actual-app/crdt": "npm:2.1.0"
     "@babel/preset-typescript": "npm:^7.20.2"
-    "@mattpetters/actual-web": "npm:24.5.1-mp"
+    "@mattpetters/actual-web": "npm:24.5.2-mp"
     "@types/bcrypt": "npm:^5.0.0"
     "@types/better-sqlite3": "npm:^7.6.7"
     "@types/cors": "npm:^2.8.13"
